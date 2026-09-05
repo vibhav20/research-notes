@@ -18,4 +18,4 @@ templates/                - the note template
 4. Commit: `git add papers/<slug> && git commit -m "add notes: <slug>"`, then push.
 
 ## Papers
-- [ ] How to Read a Paper (papers/Keshav-2016-how_read/notes.md)
+- [x] How to Read a Paper (papers/Keshav-2016-how_read/notes.md)
