@@ -3,7 +3,7 @@
 - **Authors:** S. Keshav
 - **Venue/Year:** 2016
 - **Local PDF:** [how_to_read_a_paper.pdf](/home/vibhav/Documents/research-notes/papers/Keshav-2016-how_read/how_to_read_a_paper.pdf) 
-- **Public link:** (ahttps://www.ae.metu.edu.tr/tuncer/bookmarks/HowtoReadaPaper.pdf) 
+- **Public link:** (https://www.ae.metu.edu.tr/tuncer/bookmarks/HowtoReadaPaper.pdf) 
 - **Tags:** #intro #basics
 
 ## One-line summary
